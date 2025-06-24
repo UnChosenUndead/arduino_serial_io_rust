@@ -1,4 +1,4 @@
-tets_arduino
+arduino_serial_io_rust
 ============
 
 Rust project for the _Arduino Uno_.
